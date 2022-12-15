@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Electrolize', serif;
+    color: #7AF6FB;
+    background-color: #03080E;
+    background-blend-mode: color-dodge;
+    /** background-blend-mode: luminosity; */
+    background-image: url(https://res.cloudinary.com/dyv2crejp/image/upload/v1660128935/Gamevision/Images/Design/blue-gaming-background_Legend-of-the-White-Snake-Lady-Slot-Machine-YGGDRASIL_zntleb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
